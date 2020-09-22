@@ -1,6 +1,14 @@
+body {
+    background-color: rgb(243, 231, 165);
+}
+
 .mynav {
     padding-left: 1100px;
 }
 .navcolor {
     background-color: rgb(211, 143, 200);
+}
+
+.about {
+    margin-top: 50px;
 }
