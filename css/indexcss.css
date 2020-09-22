@@ -2,11 +2,26 @@ body {
     background-color: rgb(243, 231, 165);
 }
 
-.mynav {
+/* .mynav {
     padding-left: 1100px;
 }
 .navcolor {
     background-color: rgb(211, 143, 200);
+} */
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.nav-list {
+    list-style-type: none;
+    text-align: left;
+}
+
+.nav-list li {
+    display: inline-block;
+    padding: 10px;
+    font-size: 15px;
 }
 
 .about {
