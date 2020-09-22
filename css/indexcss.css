@@ -2,12 +2,13 @@ body {
     background-color: rgb(243, 231, 165);
 }
 
-/* .mynav {
-    padding-left: 1100px;
+a {
+    color: black;
 }
-.navcolor {
-    background-color: rgb(211, 143, 200);
-} */
+
+.mynav {
+    background-color: rgb(219, 170, 219);
+}
 
 .navbar-brand {
     font-size: 30px;
@@ -20,8 +21,13 @@ body {
 
 .nav-list li {
     display: inline-block;
-    padding: 10px;
-    font-size: 15px;
+    padding: 5px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.navfont {
+    font-family: 'Amatic SC', cursive;
 }
 
 .about {
