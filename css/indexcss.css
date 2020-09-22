@@ -12,3 +12,9 @@ body {
 .about {
     margin-top: 50px;
 }
+.shake {
+    width: 200px;
+}
+.info1 {
+    padding-left: 60px;
+}
