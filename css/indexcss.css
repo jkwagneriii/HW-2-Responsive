@@ -53,6 +53,12 @@ a {
     color: plum;
 }
 
+.btn-color {
+    background-color: rgb(243, 231, 165);
+    color: rgb(219, 170, 219);
+    border-color: rgb(219, 170, 219);
+}
+
 
 
 /* unvisited link */
