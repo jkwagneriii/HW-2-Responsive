@@ -34,11 +34,11 @@ a {
     margin-top: 50px;
 }
 .shake {
-    width: 200px;
+    width: 100%;
+    height: 100%;
+    content:url("./JakeShake.JPG");
 }
-.info1 {
-    padding-left: 60px;
-}
+
 .info2 {
     margin-top: 20px;
 }
@@ -52,3 +52,43 @@ a {
     font-family: 'Amatic SC', cursive;
     color: plum;
 }
+
+
+
+/* unvisited link */
+a:link {
+    color: #FF0000;
+  }
+  
+  /* visited link
+  a:visited {
+    color: #00FF00;
+  } */
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(243, 231, 165);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(243, 231, 165);
+  }
+
+
+@media only screen and (max-width: 1200px) {
+    .shake {
+        width: 100%;
+        height: 100%;
+        content:url("./pour.JPG");
+    }
+  }
+
+@media only screen and (max-width: 990px) {
+    .shake {
+        width: 100%;
+        height: 100%;
+        content:url("./JakeShake.JPG");
+    }
+  }
+
