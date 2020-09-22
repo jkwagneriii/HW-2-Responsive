@@ -42,3 +42,13 @@ a {
 .info2 {
     margin-top: 20px;
 }
+
+.port {
+    width: 250px;
+    padding: 10px;
+}
+
+.title {
+    font-family: 'Amatic SC', cursive;
+    color: plum;
+}
