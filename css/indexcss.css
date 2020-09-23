@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(243, 231, 165);
+    /* background-color: rgb(243, 231, 165); */
+    background-image: url("./clouds.jpg");
 }
 
 a {
@@ -35,7 +36,7 @@ a {
 }
 .shake {
     width: 100%;
-    height: 100%;
+    height: 80%;
     content:url("./JakeShake.JPG");
 }
 
