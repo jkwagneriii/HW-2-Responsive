@@ -58,6 +58,11 @@ a {
     background-color: rgb(243, 231, 165);
     color: rgb(219, 170, 219);
     border-color: rgb(219, 170, 219);
+    border-radius: 12px;
+}
+
+.contact {
+    padding-left: 10px;
 }
 
 
