@@ -66,6 +66,18 @@ a {
     padding-left: 10px;
 }
 
+#page-content {
+    flex: 1 0 auto;
+}
+  
+#sticky-footer {
+    flex-shrink: none;
+}
+
+.footercolor {
+    background-color: rgb(219, 170, 219);
+    color: black;
+}
 
 
 /* unvisited link */
